@@ -43,3 +43,9 @@ This end-to-end regression project includes data preprocessing, feature engineer
 > ✅ Visual comparison plots and feature importance included.
 
 ---
+
+## 🧠 Author
+
+**Aditya Sharma**  
+_Machine Learning Enthusiast | Data Science Explorer_
+
